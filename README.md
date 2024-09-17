@@ -38,3 +38,12 @@ git clone https://github.com/codelize/devops_SPRINT.git
 
 ### Passo 5: Se tudo der certo, a aplicação estará rodando em **`localhost:8080`**
 
+### Endpoints para se testar:
+
+A seguir, alguns dos principais endpoints da aplicação:
+
+- **GET** `/users` - Retorna a lista de usuários cadastrados.
+- **POST** `/users` - Cadastra um novo usuário.
+- **POST** `/login` - Endpoint responsável por fazer o login do usuário.
+- **POST** `/veterinario` - Cadastra um novo veterinário.
+
