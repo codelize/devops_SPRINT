@@ -1,4 +1,10 @@
-[**Vídeo no YouTube**](https://youtu.be/RCRCn4ZXY44)
+<a href="https://youtu.be/RCRCn4ZXY44">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="30" /> Assista no YouTube!
+</a>
+
+
+
+
 
 
 # AgroCareTech
