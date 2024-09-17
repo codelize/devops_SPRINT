@@ -21,7 +21,7 @@ public class SecurityConfig {
                         .requestMatchers(HttpMethod.POST, "/users").permitAll()
                         .requestMatchers(HttpMethod.POST, "/veterinario").permitAll()
                         .requestMatchers(HttpMethod.GET, "/users/avatar/**").permitAll()
-                        .anyRequest().authenticated()
+                        .anyRequest().permitAll()
 
         );
         http.headers(headers -> headers.frameOptions(frameOptions -> frameOptions.disable()));
